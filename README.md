@@ -20,3 +20,5 @@ O objetivo deste repositório é documentar minha evolução. Aqui vou salvar:
 ## 👨‍💻 Autor
 Desenvolvido por **Miguel Luis**
 > "O importante é nunca parar de aprender."
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_PERFIL)

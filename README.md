@@ -1,5 +1,3 @@
-https://www.linkedin.com/in/miguel-luis-de-oliveira-0910b526b/# 🚀 Meus Projetos
-
 Este é um espaço onde estou organizando meus estudos de programação e guardando meus primeiros códigos.
 
 ---

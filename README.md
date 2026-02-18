@@ -1,4 +1,4 @@
-# 🚀 Meus Projetos
+https://www.linkedin.com/in/miguel-luis-de-oliveira-0910b526b/# 🚀 Meus Projetos
 
 Este é um espaço onde estou organizando meus estudos de programação e guardando meus primeiros códigos.
 
@@ -21,4 +21,4 @@ O objetivo deste repositório é documentar minha evolução. Aqui vou salvar:
 Desenvolvido por **Miguel Luis**
 > "O importante é nunca parar de aprender."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-luis-de-oliveira-0910b526b/)
